@@ -107,8 +107,7 @@ def gen_pq():
 
 #Genarated large prime(p,q)
 	
-p=0
-q=0
+
 p=gen_pq()[0]
 q=gen_pq()[1]
 
